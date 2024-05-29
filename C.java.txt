@@ -1,0 +1,11 @@
+public class main{
+
+public static void main(String[] args){
+<<<<<<< HEAD:main.java.txt
+system.out.println("sulthan")
+=======
+system.out.println("Hani")
+>>>>>>> cc77d7406f16d4296af94791913610dcb4c7c08e:C.java.txt
+}
+
+}
